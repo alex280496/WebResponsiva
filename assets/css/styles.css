@@ -341,6 +341,9 @@ textarea{
         padding-top: 115px;
         font-size: 25px;
     }
+    .mid-form{
+        width: 70%;
+    }
     
 }
 @media (max-width:493px){
@@ -365,6 +368,10 @@ textarea{
         font-size: 19px;
         padding-top: 30px;
     }
-    
-    
+    #slider.slider-small{
+        height: 100px;
+    }
+    #slider.slider-small h1{
+        padding-top: 35px;
+    }
 }
